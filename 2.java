@@ -1,2 +1,2 @@
 hello ther
-This is my first pull reqeust to remote servere
+This is my first push  reqeust to remote server
